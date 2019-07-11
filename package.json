@@ -1,0 +1,26 @@
+{
+  "name": "datarchive-to-hyperdrive",
+  "version": "1.0.0",
+  "description": "Wrap over the DatArchive API from Beaker to make it look like hyperdrive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RangerMauve/datarchive-to-hyperdrive.git"
+  },
+  "keywords": [
+    "dat",
+    "archive",
+    "beaker",
+    "hyperdrive",
+    "wrapper"
+  ],
+  "author": "rangermauve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/datarchive-to-hyperdrive/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/datarchive-to-hyperdrive#readme"
+}
